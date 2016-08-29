@@ -1,5 +1,5 @@
 # Rescue Bot
-TA bot that saves lives...
+A bot that can save lives...
 
 Connect with rescue bot using the URL -
 
@@ -10,7 +10,7 @@ http://m.me/rescuebotindia
 </p>
 
 ## Demo Video
-[![alt tag](https://github.com/mayank26saxena/Emergency-Bot/blob/master/art/youtube_screen.png)](https://www.youtube.com/watch?v=-9Wo0ZQs6Yo)
+[![alt tag](https://github.com/mayank26saxena/Emergency-Bot/blob/master/art/youtube_screen.png)](https://www.youtube.com/watch?v=Zdlpmw4UC7Y&feature=youtu.be)
 
 ## Inspiration
 
@@ -37,7 +37,6 @@ With RescueBot you can :
 This will require a bit of support of government, Police stations, Fire centers and Hospitals. What we can do if establish an Realtime Nearby Accident Alert System at Police stations, Fire centers and Hospitals which can be continuosly monitored. While there are several ways for this here's a simple way.
 - Whenever an accident or emergency situation is reported we can send a customized SMS (with accident location to the police stations/hospitals etc.)
 - Also as we're continuously posting these messages to twitter we can also make a system for the hospitals/police stations etc that if the tweet is corresponding to them they'll get an alert with the image as well as the location and then they can act on it accordingly. The advantage of this method is hospitals/ police stations etc will also be able to see the images which can help them to prepare for the accident prior.
-- 
 **Note :** As of now we're using twitter but this functionality can be implemented on different platform if required. We're flexible to all the technologies we are using right now. The only thing that is important is the proof of concept that this is actually possible to develop a efficient system that can provide fast access to police/ambulance/fire_truck to people in emergency.
 
 
