@@ -39,6 +39,14 @@ This will require a bit of support of government, Police stations, Fire centers 
 - Also as we're continuously posting these messages to twitter we can also make a system for the hospitals/police stations etc that if the tweet is corresponding to them they'll get an alert with the image as well as the location and then they can act on it accordingly. The advantage of this method is hospitals/ police stations etc will also be able to see the images which can help them to prepare for the accident prior.
 **Note :** As of now we're using twitter but this functionality can be implemented on different platform if required. We're flexible to all the technologies we are using right now. The only thing that is important is the proof of concept that this is actually possible to develop a efficient system that can provide fast access to police/ambulance/fire_truck to people in emergency.
 
+##Usage
+Just tap the menu button at the left bottom to start interacting.
+**Options :**
+- If you're at any accident location, choose **Report Accident**
+- To find nearest emergency contact number or location, choose **Find Nearest Emergency Numbers**
+- To consult our virtual doctor and get quick instructions, choose **Virtual Doctor**
+- To alert your family and contacts, chose **Alert Family and Friends**
+To enter your location just turn on your GPS and send your location via messenger.
 
 ## Accomplishments that we're proud of
 And most AWESOME things about it is
