@@ -10,7 +10,7 @@ http://m.me/rescuebotindia
 </p>
 
 ## Demo Video
-[![alt tag](https://github.com/mayank26saxena/Emergency-Bot/blob/master/art/youtube_screen.png)](https://www.youtube.com/watch?v=Zdlpmw4UC7Y&feature=youtu.be)
+[![alt tag](https://github.com/mayank26saxena/Emergency-Bot/blob/master/art/youtube_screen.png)](https://youtu.be/SjORe3_2bQc)
 
 ## Inspiration
 
